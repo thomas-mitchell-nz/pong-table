@@ -56,7 +56,6 @@ void setup()
 
 void loop() 
 {
-
   strip1.show();
   
   int n = strip1.numPixels();
