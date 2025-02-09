@@ -36,3 +36,10 @@ Several enhancements could be implemented to improve the system’s performance 
 2. **Improving Sensor Consistency:** The homemade sensors have variable characteristics that affect the reliability of the digital filters. Future versions could incorporate standardized sensors or advanced calibration techniques to address this issue.
 3. **Adapting to Ambient Light:** The system performs best in darker environments due to its sensitivity to ambient light levels. Future iterations could include light sensors or adaptive algorithms to optimize performance under varying lighting conditions.
 
+## Video Links  
+Here are relevant video demos:  
+
+- [Pong Table](https://drive.google.com/file/d/1QNtOnAUtDwmtxOfAkglDZkRU2VJTUk5H/view?usp=drive_link)  
+- [Sensor Demonstration](https://drive.google.com/file/d/15alWkHNas4aBsejfc-ToX56C9pkpEu6a/view?usp=drive_link)  
+
+
