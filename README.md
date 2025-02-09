@@ -39,7 +39,7 @@ Several enhancements could be implemented to improve the system’s performance 
 ## Video Links  
 Here are relevant video demos:  
 
-- [Pong Table](https://drive.google.com/file/d/1QNtOnAUtDwmtxOfAkglDZkRU2VJTUk5H/view?usp=drive_link)  
-- [Sensor Demonstration](https://drive.google.com/file/d/15alWkHNas4aBsejfc-ToX56C9pkpEu6a/view?usp=drive_link)  
+- [Pong Table](https://drive.google.com/file/d/15alWkHNas4aBsejfc-ToX56C9pkpEu6a/view?usp=drive_link)  
+- [Sensor Demonstration](https://drive.google.com/file/d/1QNtOnAUtDwmtxOfAkglDZkRU2VJTUk5H/view?usp=drive_link)  
 
 
